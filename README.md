@@ -1,5 +1,5 @@
 # Cycle_GAN
-Domain Translation of Images using CycleGAN (Implemented using PyTorch)
+Domain Translation of Images using CycleGAN
 
 ## What is CycleGAN?
 Image-to-image translation problem describes translating an image from domain A to domain B. The main goal of CycleGAN is to solve the image-to-image translation problem.
